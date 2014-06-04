@@ -13,7 +13,6 @@ Respect protected areas.
 Don't ask or beg admins for items.
 Don't Ask to be part of the staff.
 
-this server always shuts down at 10PM GMT+2.
 please don't afk or idle.
 do not request extra privs.
 ]]
